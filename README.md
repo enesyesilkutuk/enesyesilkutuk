@@ -37,8 +37,9 @@
  - <a href="https://enesyesilkutuk.github.io/Lottery-Project/" target="_blank" >Lottery-Project</a>
  - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
  - <a href="https://enesyesilkutuk.github.io/IOS-Calculator/" target="_blank" >IOS-Calculator</a>
- - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
- - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
+ - <a href="https://enesyesilkutuk.github.io/Checkout-Page-Project/" target="_blank" >Checkout-Page-Project</a>
+ - <a href="https://enesyesilkutuk.github.io/Movie-Seat-App/" target="_blank" >Movie-Seat-App-Project</a>
+ - <a href="https://enesyesilkutuk.github.io/Weather-App-Project/" target="_blank" >Weather-App-Project</a>
 
 ## :fire: My Stats :
                                                                         
