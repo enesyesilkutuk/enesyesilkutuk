@@ -31,7 +31,7 @@
 - <a href="https://react-blog-app-enes.netlify.app/" target="_blank" >ReactBlog-App</a> 
 ## Without React
  
- - <a href="https://mhmtclk1705.github.io/Clarusway-School-Project/" target="_blank" >Clarusway-School-Project</a>
+ - <a href="https://enesyesilkutuk.github.io/Netflix-Survey-Form/" target="_blank" >Netflix-Survey-Form</a>
  
 
 ## :fire: My Stats :
