@@ -34,8 +34,11 @@
  - <a href="https://enesyesilkutuk.github.io/Netflix-Survey-Form/" target="_blank" >Netflix-Survey-Form</a>
  - <a href="https://enesyesilkutuk.github.io/Score-Keeper-Project/" target="_blank" >Score-Keeper-Project</a>
  - <a href="https://enesyesilkutuk.github.io/Guess-Number-Project/" target="_blank" >Guess-Number-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Netflix-Survey-Form/" target="_blank" >Netflix-Survey-Form</a>
- - <a href="https://enesyesilkutuk.github.io/Netflix-Survey-Form/" target="_blank" >Netflix-Survey-Form</a>
+ - <a href="https://enesyesilkutuk.github.io/Lottery-Project/" target="_blank" >Lottery-Project</a>
+ - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
+ - <a href="https://enesyesilkutuk.github.io/IOS-Calculator/" target="_blank" >IOS-Calculator</a>
+ - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
+ - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
 
 ## :fire: My Stats :
                                                                         
